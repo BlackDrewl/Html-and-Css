@@ -1,0 +1,35 @@
+
+
+
+#navbar {
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.logo { 
+    font-size: 30px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.hero {
+    color: lightblue;
+    background: black;
+    height: 250px;
+    width: 200px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+.low {
+    color: red;
+    font-size: 20px;
+}
+
+.hero-btn {
+    background: red;
+    color: white;
+}
+
+

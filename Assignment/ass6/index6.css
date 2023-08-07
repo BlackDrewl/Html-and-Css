@@ -1,0 +1,80 @@
+
+
+
+.bg1{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 600px;
+    position: absolute;
+}
+
+.top{
+    background-image: url(sbg.jpg);
+    background-size: contain;
+    width: 350px;
+    height: 140px;
+    position: relative;
+    left: 330px;
+    top: 100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.bottom{
+    background-color: white;
+    width: 350px;
+    height: 250px;
+    position: relative;
+    left: 330px;
+    top: 85px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.dp{
+    background-image: url(dp2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    position: fixed;
+    left: 455px;
+    bottom: 400px;
+}
+
+.first{
+    padding-top: 60px;
+    padding-left: 95px;
+    
+}
+
+.word{
+    font-size: 24px;
+    font-weight: bold
+}
+
+.word2{
+    font-size: 18px;
+}
+
+.second{
+    margin-left: 140px;
+    padding-bottom: 30px;
+    margin-top: -10px;
+    
+}
+
+.name{
+    padding-left: 50px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.name1{
+    padding-left: 55px;
+
+}

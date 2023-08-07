@@ -1,0 +1,119 @@
+
+
+
+.mainbox{
+    background-image: url(image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 80vh;
+    position: absolute;
+    margin: auto;
+   
+}
+
+.navbar{
+    position: absolute;
+}
+
+.stress{
+    position: relative;
+    color: white;
+}
+
+li{
+    list-style-type: none;
+    float: left;
+    position: relative;
+    left: 425px;
+    bottom: 24px;
+    padding: 10px 10px 10px 10px;
+}
+
+.logo{
+    position: fixed;
+    left: 100px;
+    top: 10px;
+    color: white;
+}
+
+.nav{
+    font-size: 20px;
+}
+
+.div1{
+    width: 350px;
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.first{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.second{
+    font-size: 25px;
+}
+
+.signup{
+    position: relative;
+    left: 650px;
+    bottom: 130px;
+    background-color: white;
+    width: 260px;
+    height: 300px;
+    text-align: center;
+    box-shadow: 3px 3px 5px 0;
+}
+
+.work{
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.form-box{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+.butn1{
+    color: white;
+    background-color: transparent;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+}
+
+.name{
+    width: 210px;
+    height: 20px;
+    margin: 5px 10px 5px 0;
+    border-radius: 5px;  
+    padding: 5px;
+}
+
+.butn2{
+    color: white;
+    background-color: rgb(198, 0, 198);
+    width: 210px;
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 18px;
+    border-radius: 5px;
+}
+
+.iono{
+    padding-right: 20px;
+}
+
+.dash{
+    border-top: 5px dashed white;
+    width: 40px;
+    position: relative;
+    top: 120px;
+    left: 100px; 
+}
